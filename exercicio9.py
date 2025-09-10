@@ -17,7 +17,7 @@ elif preco >= 50:
 else:
     desconto = 0.00
 
-if vip == "ssim":
+if vip == "sim":
     desconto += 0.05
 
 preco_final = preco * (1 - desconto)
