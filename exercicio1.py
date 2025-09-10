@@ -1,4 +1,4 @@
-# Peça o salário do funcionário e o tempo de empresa.
+# 1-Peça o salário do funcionário e o tempo de empresa.
 # Calcule o bônus considerando as seguintes regras: a. Salário < 2000 e tempo ≥ 5 anos: bônus de 20% 
 # b. Salário < 2000 e tempo < 5 anos: bônus de 10% c. Salário ≥ 2000 e tempo ≥ 5 anos: bônus de 5% 
 # d. Salário ≥ 2000 e tempo < 5 anos: sem bônus
