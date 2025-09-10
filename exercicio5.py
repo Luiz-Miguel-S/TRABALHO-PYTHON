@@ -5,7 +5,7 @@ dia = int(input("Digite o dia: "))
 mes = int(input("Digite o mês: "))
 ano = int(input("Digite o ano: "))
 
-if mes < 1 or mes > 12 or dia < 1:
+if mes < 1 or mes > 12 or dia < 1 or dia > 31:
     print("Data invalida")
 elif mes == 2 and dia > 29:
     print("Data invalida")
